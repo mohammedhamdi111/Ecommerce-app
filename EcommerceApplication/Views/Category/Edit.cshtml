@@ -1,0 +1,44 @@
+﻿@model EcommerceApplication.Core.Models.Category
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<div class="card-body">
+    <form asp-action="Edit" asp-controller="Category" method="post">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <input asp-for="id" hidden/>
+        <div class="form-group">
+            <label asp-for="@Model.Name" class="control-label"></label>
+            <input asp-for="@Model.Name" class="form-control" />
+            <span asp-validation-for="@Model.Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Description" class="control-label"></label>
+            <input asp-for="@Model.Description" class="form-control" />
+            <span asp-validation-for="@Model.Description" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.IsActive" class="control-label"></label>
+            <input type="checkbox" asp-for="@Model.IsActive" class="form-control" />
+            <span asp-validation-for="@Model.IsActive" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.IsDelete" class="control-label"></label>
+            <input type="checkbox" asp-for="@Model.IsDelete" class="form-control" />
+            <span asp-validation-for="@Model.IsDelete" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <a asp-action="Categories" asp-controller="Category" class="btn btn-danger">Cancel</a>
+            <input type="submit" class="btn btn-primary" value="Save" />
+        </div>
+
+    </form>
+
+</div>
+@section Scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

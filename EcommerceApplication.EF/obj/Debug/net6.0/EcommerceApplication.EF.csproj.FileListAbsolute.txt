@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\bin\Debug\net6.0\EcommerceApplication.EF.deps.json
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\bin\Debug\net6.0\EcommerceApplication.EF.runtimeconfig.json
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\bin\Debug\net6.0\EcommerceApplication.EF.dll
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\bin\Debug\net6.0\EcommerceApplication.EF.pdb
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\obj\Debug\net6.0\EcommerceApplication.EF.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\obj\Debug\net6.0\EcommerceApplication.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\obj\Debug\net6.0\EcommerceApplication.EF.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\obj\Debug\net6.0\EcommerceApplication.EF.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\obj\Debug\net6.0\EcommerceApplication.EF.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\obj\Debug\net6.0\EcommerceApplication.EF.dll
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\obj\Debug\net6.0\refint\EcommerceApplication.EF.dll
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\obj\Debug\net6.0\EcommerceApplication.EF.pdb
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\obj\Debug\net6.0\EcommerceApplication.EF.genruntimeconfig.cache
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\obj\Debug\net6.0\ref\EcommerceApplication.EF.dll
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\bin\Debug\net6.0\EcommerceApplication.Core.dll
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\bin\Debug\net6.0\EcommerceApplication.Core.pdb
+C:\Users\DELL\source\repos\EcommerceApplication\EcommerceApplication.EF\obj\Debug\net6.0\EcommerceApplication.EF.csproj.CopyComplete
